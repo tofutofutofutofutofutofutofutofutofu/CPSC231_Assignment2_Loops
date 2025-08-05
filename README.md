@@ -1,0 +1,2 @@
+# CPSC231_Assignment2_RandomPython
+Introductory Python Random Module
