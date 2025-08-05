@@ -1,2 +1,2 @@
-# CPSC231_Assignment2_RandomPython
+# CPSC231_Assignment2_Loops
 Introductory Python Random Module
